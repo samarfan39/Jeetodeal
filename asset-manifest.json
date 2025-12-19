@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jeetodeal/static/css/main.e6c13ad2.css",
+    "main.js": "/Jeetodeal/static/js/main.afd35d62.js",
+    "static/js/453.dea6b56a.chunk.js": "/Jeetodeal/static/js/453.dea6b56a.chunk.js",
+    "index.html": "/Jeetodeal/index.html",
+    "main.e6c13ad2.css.map": "/Jeetodeal/static/css/main.e6c13ad2.css.map",
+    "main.afd35d62.js.map": "/Jeetodeal/static/js/main.afd35d62.js.map",
+    "453.dea6b56a.chunk.js.map": "/Jeetodeal/static/js/453.dea6b56a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.afd35d62.js"
+  ]
+}
